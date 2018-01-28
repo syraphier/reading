@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* 初级
+* [初级](chu-ji.md)
   * [《Java编程思想》](chuji/Java编程思想/Java编程思想.md)
   * [《head first Java》  ](chuji/Java编程思想/head-first-java.md)
   * [《Effective Java中文版》 ](chuji/Java编程思想/effective-javazhong-wen-ban-300b.md)
