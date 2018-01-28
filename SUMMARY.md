@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [初级](chu-ji.md)
+* [初级](chuji/chu-ji.md)
   * [《Java编程思想》](chuji/Java编程思想/Java编程思想.md)
   * [《head first Java》  ](chuji/Java编程思想/head-first-java.md)
   * [《Effective Java中文版》 ](chuji/Java编程思想/effective-javazhong-wen-ban-300b.md)
@@ -18,7 +18,7 @@
   * 《Head First Servlets and JSP》
   * 《架构探险》
   * 《软件方法》
-* [中级](zhong-ji.md)
+* [中级](zhongji/zhong-ji.md)
   * 《深入理解Java虚拟机：JVM高级特性与最佳实践》
   * 《HotSpot实战》
   * 《Java多线程编程核心技术》
@@ -27,7 +27,7 @@
   * 《深入分析Java Web技术内幕》
   * 《Java性能权威指南》
   * 《How Tomcat Works》
-* [高级](gao-ji.md)
+* [高级](gaoji/gao-ji.md)
   * 《Spring源码深度解析》
   * 《大型网站技术架构 核心原理与案例分析》
   * 《大型网站系统与Java中间件实践》
