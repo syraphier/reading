@@ -1,5 +1,5 @@
 # 初级
-## [《Java编程思想》](《Java编程思想》.md)  
+## [《Java编程思想》](Java编程思想/《Java编程思想》.md)  
 
 ## 《head first Java》  
 ***
