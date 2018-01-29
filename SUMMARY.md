@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [说明](README.md)
 * [初级](chuji/chu-ji.md)
   * [《Java编程思想》](chuji/Java编程思想/Java编程思想.md)
   * [《head first Java》  ](chuji/Java编程思想/head-first-java.md)
